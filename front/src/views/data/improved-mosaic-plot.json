@@ -1,0 +1,38 @@
+{
+    "userProfiles": {
+       "sex": ["Male", "Female"],
+       "age": ["10-19", "20-29", "30-39", "40-49", "50-59"],
+       "pvalue": ["Level 1", "Level 2", "Level 3"],
+       "shopping": ["Level 1", "Level 2", "Level 3"],
+       "student": ["Yes", "No"],
+       "city": ["Level 1", "Level 2", "Level 3", "Level 4"],
+       "behaviors": ["pv", "cart", "fav", "buy", "clk"]
+    },
+    "users": [
+        {
+            "userID": "1000",
+            "clusterType": "0",
+            "userProfiles": ["Male", "10-19", "Level 3", "Level 3", "Yes", "Level 1", 5, 6, 7, 8, 9]
+        },
+        {
+            "userID": "2000",
+            "clusterType": "1",
+            "userProfiles": ["Female", "30-39", "Level 1", "Level 2", "No", "Level 1",10, 7, 7, 18, 9]
+        },
+        {
+            "userID": "3000",
+            "clusterType": "2",
+            "userProfiles": ["Female", "30-39", "Level 1", "Level 2", "Yes", "Level 1", 5, 6, 7, 8, 19]
+        },
+        {
+            "userID": "4000",
+            "clusterType": "3",
+            "userProfiles": ["Male", "40-49", "Level 2", "Level 2", "Yes", "Level 1", 35, 6, 15, 8, 9]
+        },
+        {
+            "userID": "5000",
+            "clusterType": "4",
+            "userProfiles": ["Female", "30-39", "Level 1", "Level 3", "No", "Level 1", 23, 6, 25, 8, 9]
+        }
+    ]
+}

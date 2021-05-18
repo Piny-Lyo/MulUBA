@@ -1,0 +1,21 @@
+{
+    "hourBehaviorOfWeek": [0, 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 10, 0, 0],
+    "hourBehaviorOfDay": [0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 8, 0, 0],
+    "minBehaviorsOfHour": [0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 50],
+    "behaviors": [
+        {"time": "1494426820", "behavior": "pv", "cateID": "5263"}, 
+        {"time": "1494426858", "behavior": "pv", "cateID": "5263"}, 
+        {"time": "1494427034", "behavior": "pv", "cateID": "5263"}, 
+        {"time": "1494427046", "behavior": "buy", "cateID": "5263"},
+        {"time": "1494427059", "behavior": "pv", "cateID": "5263"},
+        {"time": "1494427140", "behavior": "clk", "cateID": "5263"},
+        {"time": "1494427197", "behavior": "pv", "cateID": "5263"},
+        {"time": "1494427208", "behavior": "pv", "cateID": "5263"},
+        {"time": "1494427218", "behavior": "clk", "cateID": "5263"},
+        {"time": "1494427546", "behavior": "pv", "cateID": "5263"},
+        {"time": "1494427854", "behavior": "fav", "cateID": "5263"},
+        {"time": "1494427855", "behavior": "cart", "cateID": "5263"},
+        {"time": "1494427860", "behavior": "pv", "cateID": "5263"}
+    ]
+}

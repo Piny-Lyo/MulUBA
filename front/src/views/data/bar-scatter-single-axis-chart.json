@@ -1,0 +1,48 @@
+{
+    "userStatics": [
+        {
+            "clusterType": "1",
+            "users": [6855, 17470, 374369],
+            "behaviors": [13725552, 534114, 65405, 121017, 9447],
+            "topKUsers": [[{"userID": 978716, "value": 6211}, {"userID": 172921, "value": 6192}, {"userID": 510076, "value": 5861}, {"userID": 363135, "value": 5662}, {"userID": 905190, "value": 5219}, {"userID": 792833, "value": 5145}, {"userID": 550930, "value": 5104}, {"userID": 961802, "value": 5036}, {"userID": 961599, "value": 4975}, {"userID": 777101, "value": 4867}], [{"userID": 511470, "value": 287}, {"userID": 701088, "value": 273}, {"userID": 231433, "value": 240}, {"userID": 193918, "value": 216}, {"userID": 707885, "value": 180}, {"userID": 392931, "value": 179}, {"userID": 681987, "value": 170}, {"userID": 267994, "value": 169}, {"userID": 774472, "value": 168}, {"userID": 17686, "value": 167}], [{"userID": 514916, "value": 60}, {"userID": 887427, "value": 57}, {"userID": 961802, "value": 57}, {"userID": 434207, "value": 53}, {"userID": 845595, "value": 53}, {"userID": 469524, "value": 52}, {"userID": 481573, "value": 51}, {"userID": 435577, "value": 49}, {"userID": 804173, "value": 48}, {"userID": 520554, "value": 47}], [{"userID": 25044, "value": 193}, {"userID": 969597, "value": 193}, {"userID": 657526, "value": 114}, {"userID": 385285, "value": 103}, {"userID": 696400, "value": 102}, {"userID": 341157, "value": 101}, {"userID": 129431, "value": 99}, {"userID": 1054666, "value": 99}, {"userID": 239188, "value": 97}, {"userID": 175787, "value": 79}], [{"userID": 252844, "value": 9}, {"userID": 439992, "value": 8}, {"userID": 387184, "value": 7}, {"userID": 420474, "value": 7}, {"userID": 445432, "value": 7}, {"userID": 778393, "value": 7}, {"userID": 963246, "value": 7}, {"userID": 332634, "value": 6}, {"userID": 405303, "value": 6}, {"userID": 429012, "value": 6}]]
+        },
+        {
+            "clusterType": "2",
+            "users": [34285, 234393, 374369],
+            "behaviors": [24301117, 512695, 286761, 254285, 34285],
+            "topKUsers": [[{"userID": 745164, "value": 715}, {"userID": 426203, "value": 714}, {"userID": 993134, "value": 710}, {"userID": 7605, "value": 705}, {"userID": 86630, "value": 702}, {"userID": 254353, "value": 702}, {"userID": 705904, "value": 702}, {"userID": 973781, "value": 702}, {"userID": 868694, "value": 693}, {"userID": 330465, "value": 692}], [{"userID": 235369, "value": 26}, {"userID": 545026, "value": 26}, {"userID": 677677, "value": 26}, {"userID": 732273, "value": 26}, {"userID": 310279, "value": 25}, {"userID": 539916, "value": 25}, {"userID": 657767, "value": 25}, {"userID": 674032, "value": 25}, {"userID": 1057015, "value": 25}, {"userID": 31531, "value": 24}], [{"userID": 564081, "value": 35}, {"userID": 636317, "value": 34}, {"userID": 301507, "value": 33}, {"userID": 364079, "value": 33}, {"userID": 799427, "value": 33}, {"userID": 448677, "value": 32}, {"userID": 480412, "value": 32}, {"userID": 553277, "value": 32}, {"userID": 554592, "value": 32}, {"userID": 582156, "value": 32}], [{"userID": 543, "value": 5}, {"userID": 812, "value": 5}, {"userID": 2200, "value": 5}, {"userID": 2510, "value": 5}, {"userID": 2650, "value": 5}, {"userID": 2995, "value": 5}, {"userID": 5424, "value": 5}, {"userID": 5700, "value": 5}, {"userID": 6241, "value": 5}, {"userID": 6700, "value": 5}], [{"userID": 88, "value": 1}, {"userID": 102, "value": 1}, {"userID": 108, "value": 1}, {"userID": 126, "value": 1}, {"userID": 150, "value": 1}, {"userID": 155, "value": 1}, {"userID": 166, "value": 1}, {"userID": 196, "value": 1}, {"userID": 208, "value": 1}, {"userID": 215, "value": 1}]]
+        },
+        {
+            "clusterType": "3",
+            "users": [3507, 7417, 374369],
+            "behaviors": [6270360, 80591, 341789, 34130, 5843],
+            "topKUsers": [[{"userID": 204798, "value": 8568}, {"userID": 214884, "value": 6221}, {"userID": 223652, "value": 5625}, {"userID": 369384, "value": 5367}, {"userID": 816321, "value": 5133}, {"userID": 857840, "value": 5026}, {"userID": 340281, "value": 4811}, {"userID": 110714, "value": 4683}, {"userID": 1119722, "value": 4598}, {"userID": 326667, "value": 4592}], [{"userID": 321778, "value": 130}, {"userID": 99841, "value": 124}, {"userID": 340281, "value": 118}, {"userID": 396604, "value": 118}, {"userID": 242639, "value": 117}, {"userID": 30053, "value": 109}, {"userID": 53167, "value": 97}, {"userID": 989885, "value": 95}, {"userID": 791921, "value": 94}, {"userID": 295595, "value": 89}], [{"userID": 844716, "value": 1055}, {"userID": 585869, "value": 584}, {"userID": 513838, "value": 459}, {"userID": 30053, "value": 437}, {"userID": 701340, "value": 431}, {"userID": 559644, "value": 415}, {"userID": 129074, "value": 343}, {"userID": 721607, "value": 324}, {"userID": 915803, "value": 323}, {"userID": 637081, "value": 294}], [{"userID": 803226, "value": 50}, {"userID": 251661, "value": 48}, {"userID": 671404, "value": 44}, {"userID": 884613, "value": 44}, {"userID": 102168, "value": 41}, {"userID": 223652, "value": 40}, {"userID": 1108184, "value": 39}, {"userID": 63722, "value": 37}, {"userID": 415280, "value": 37}, {"userID": 691927, "value": 36}], [{"userID": 225823, "value": 10}, {"userID": 730705, "value": 9}, {"userID": 58804, "value": 8}, {"userID": 306185, "value": 8}, {"userID": 391781, "value": 8}, {"userID": 637299, "value": 8}, {"userID": 988400, "value": 8}, {"userID": 46329, "value": 7}, {"userID": 241291, "value": 7}, {"userID": 381975, "value": 7}]]
+        },
+        {
+            "clusterType": "4",
+            "users": [23221, 93981, 374369],
+            "behaviors": [31709031, 740845, 307923, 430653, 23251],
+            "topKUsers": [[{"userID": 337493, "value": 1855}, {"userID": 1076467, "value": 1788}, {"userID": 468425, "value": 1692}, {"userID": 420528, "value": 1675}, {"userID": 1015337, "value": 1649}, {"userID": 766804, "value": 1646}, {"userID": 984329, "value": 1621}, {"userID": 362664, "value": 1611}, {"userID": 775043, "value": 1611}, {"userID": 714317, "value": 1609}], [{"userID": 187145, "value": 32}, {"userID": 246879, "value": 32}, {"userID": 497261, "value": 32}, {"userID": 515779, "value": 32}, {"userID": 695057, "value": 32}, {"userID": 1137154, "value": 32}, {"userID": 4581, "value": 31}, {"userID": 6978, "value": 31}, {"userID": 96393, "value": 31}, {"userID": 137034, "value": 31}], [{"userID": 567324, "value": 32}, {"userID": 326418, "value": 31}, {"userID": 627074, "value": 31}, {"userID": 719493, "value": 31}, {"userID": 198037, "value": 30}, {"userID": 227707, "value": 30}, {"userID": 337971, "value": 30}, {"userID": 438624, "value": 30}, {"userID": 507479, "value": 30}, {"userID": 570181, "value": 30}], [{"userID": 1129226, "value": 40}, {"userID": 85387, "value": 33}, {"userID": 579846, "value": 33}, {"userID": 657276, "value": 31}, {"userID": 481017, "value": 30}, {"userID": 488230, "value": 30}, {"userID": 632074, "value": 30}, {"userID": 858385, "value": 30}, {"userID": 919076, "value": 30}, {"userID": 51282, "value": 29}], [{"userID": 17479, "value": 2}, {"userID": 26906, "value": 2}, {"userID": 119902, "value": 2}, {"userID": 175846, "value": 2}, {"userID": 184594, "value": 2}, {"userID": 193064, "value": 2}, {"userID": 194785, "value": 2}, {"userID": 235899, "value": 2}, {"userID": 242834, "value": 2}, {"userID": 269549, "value": 2}]]
+        },
+        {
+            "clusterType": "5",
+            "users": [21108, 21108, 374369],
+            "behaviors": [8637895, 143232, 86595, 56305, 56208],
+            "topKUsers": [[{"userID": 368597, "value": 4320}, {"userID": 829437, "value": 3338}, {"userID": 76166, "value": 3025}, {"userID": 487643, "value": 2933}, {"userID": 1017175, "value": 2848}, {"userID": 540268, "value": 2844}, {"userID": 200979, "value": 2786}, {"userID": 495482, "value": 2782}, {"userID": 838317, "value": 2741}, {"userID": 374433, "value": 2663}], [{"userID": 1027604, "value": 69}, {"userID": 971298, "value": 60}, {"userID": 159104, "value": 58}, {"userID": 1074307, "value": 56}, {"userID": 826763, "value": 54}, {"userID": 391299, "value": 53}, {"userID": 1123373, "value": 53}, {"userID": 1058909, "value": 52}, {"userID": 187859, "value": 50}, {"userID": 777547, "value": 50}], [{"userID": 495482, "value": 86}, {"userID": 290179, "value": 77}, {"userID": 1058909, "value": 72}, {"userID": 897556, "value": 65}, {"userID": 811687, "value": 58}, {"userID": 1046168, "value": 50}, {"userID": 69218, "value": 49}, {"userID": 391299, "value": 49}, {"userID": 99477, "value": 48}, {"userID": 468208, "value": 46}], [{"userID": 548935, "value": 30}, {"userID": 736683, "value": 27}, {"userID": 688420, "value": 23}, {"userID": 462305, "value": 22}, {"userID": 627181, "value": 21}, {"userID": 1039259, "value": 21}, {"userID": 208647, "value": 18}, {"userID": 275857, "value": 18}, {"userID": 398352, "value": 18}, {"userID": 462657, "value": 18}], [{"userID": 42906, "value": 18}, {"userID": 495482, "value": 18}, {"userID": 1058909, "value": 18}, {"userID": 413706, "value": 17}, {"userID": 756917, "value": 17}, {"userID": 80466, "value": 16}, {"userID": 510492, "value": 16}, {"userID": 1067068, "value": 15}, {"userID": 290179, "value": 14}, {"userID": 873691, "value": 14}]]
+        }
+    ],
+    "columns": {
+        "userType": [
+            "clk_users",
+            "group_users",
+            "total_users"
+        ],
+        "behaviorTypes": [
+            "pv",
+            "cart",
+            "fav",
+            "buy",
+            "clk"
+        ]
+    }
+}

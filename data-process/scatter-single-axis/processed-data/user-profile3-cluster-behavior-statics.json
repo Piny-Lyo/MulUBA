@@ -1,0 +1,57 @@
+[
+    {
+        "cluster_type": "1",
+        "clk_users": "34285",
+        "cluster_users": "234393",
+        "total_users": "374369",
+        "pv": "24301117",
+        "cart": "512695",
+        "fav": "286761",
+        "buy": "254285",
+        "clk": "34285"
+    },
+    {
+        "cluster_type": "3",
+        "clk_users": "23221",
+        "cluster_users": "93981",
+        "total_users": "374369",
+        "pv": "31709031",
+        "cart": "740845",
+        "fav": "307923",
+        "buy": "430653",
+        "clk": "23251"
+    },
+    {
+        "cluster_type": "0",
+        "clk_users": "6855",
+        "cluster_users": "17470",
+        "total_users": "374369",
+        "pv": "13725552",
+        "cart": "534114",
+        "fav": "65405",
+        "buy": "121017",
+        "clk": "9447"
+    },
+    {
+        "cluster_type": "4",
+        "clk_users": "21108",
+        "cluster_users": "21108",
+        "total_users": "374369",
+        "pv": "8637895",
+        "cart": "143232",
+        "fav": "86595",
+        "buy": "56305",
+        "clk": "56208"
+    },
+    {
+        "cluster_type": "2",
+        "clk_users": "3507",
+        "cluster_users": "7417",
+        "total_users": "374369",
+        "pv": "6270360",
+        "cart": "80591",
+        "fav": "341789",
+        "buy": "34130",
+        "clk": "5843"
+    }
+]
